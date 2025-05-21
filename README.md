@@ -51,6 +51,8 @@ Here are some projects that showcase my skills:
 ## 📈 GitHub Stats
 
 ![Prerna9721's Stats](https://github-readme-stats.vercel.app/api?username=Prerna9721&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Prerna9721's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prerna9721&theme=vue-dark&hide_border=true)
+![Prerna9721's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prerna9721&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
