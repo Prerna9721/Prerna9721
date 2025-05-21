@@ -50,7 +50,7 @@ Here are some projects that showcase my skills:
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Prerna9721's Stats](https://github-readme-stats.vercel.app/api?username=Prerna9721&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
