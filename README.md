@@ -1,10 +1,58 @@
-- 👋 Hi, I’m @Prerna9721
-- 👀 I’m interested in some sorts of coding specially the developer's kit.
-- 🌱 I’m currently learning basics of css and html
-- 💞️ I’m looking to collaborate on mini projects .
-- 📫 How to reach me via my e mail -prernasinha9511@gmail.con
+# 👋 Hi there! I'm Prerna Sinha
 
-<!---
-Prerna9721/Prerna9721 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Aspiring **Java Backend Developer** | Passionate about building scalable web applications using **Spring Boot**  
+💻 Always learning and improving in **Java, Spring Framework, SQL, HTML, and CSS**
+
+---
+
+## 🚀 About Me
+
+I’m a self-motivated developer actively looking for opportunities in **Java backend development**.  
+I enjoy creating robust APIs and backend services using **Spring Boot**, and I'm enthusiastic about building real-world applications with clean and maintainable code.
+
+---
+
+## 🛠️ Skills & Technologies
+
+- 💻 **Languages:** Java, SQL, HTML, CSS  
+- 🌐 **Web Technologies:**  Thymeleaf  
+- ☕ **Frameworks:** Spring Core, Spring Boot, Spring MVC, Spring Data JPA  
+- 🛢️ **Databases:** MySQL, Mongo db
+- ⚙️ **Tools:** Git, Maven, Postman, IntelliJ IDEA, Eclipse,Vs Code  
+- 🔐 **Basic Security:** JWT, Spring Security (learning phase)
+
+---
+
+## 📌 Projects
+
+Here are some projects that showcase my skills:
+
+### 📇 Smart Contact Manager System
+- **Tech Stack:** Java, Spring Boot, Thymeleaf, Spring MVC, MySQL, Spring Security
+- Developed a secure contact management system with user authentication and role-based access.
+- Features include user registration/login, contact CRUD, profile management, and file upload.
+- Integrated **Spring Security** for authentication and authorization.
+
+  ### 🧾 Personal Portfolio Website
+- **Tech Stack:** HTML, CSS, JavaScript
+- Responsive and minimal personal portfolio to showcase my skills and work.
+
+> 👉 Check out my repositories to explore these projects!
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/prerna-sinha-259b92211/)  
+- 📧 Email: prernasinha9511@gmail.com 
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+
+---
+
+🧠 **Currently learning**: Spring Security, Microservices Best Practices  
+📌 **Open to**: Java Backend Developer roles | Internships | Remote work opportunities
