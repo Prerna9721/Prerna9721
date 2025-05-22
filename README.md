@@ -12,7 +12,7 @@ I enjoy creating robust APIs and backend services using **Spring Boot**, and I'm
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies  #6DB33F
 
 - 💻 **Languages:** Java, SQL, HTML, CSS  
 - 🌐 **Web Technologies:**  Thymeleaf  
